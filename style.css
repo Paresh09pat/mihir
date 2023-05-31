@@ -337,7 +337,7 @@
     background-color: white;
     height: 100vh;
     text-align: justify;
-    background-image: url('../../assets/r.png'), url('../../assets/sec1.jpg');
+    background-image: url(./assets/r.png), url(./assets/sec1.jpg);
     background-position: 5% 80%, 70% center;
     background-repeat: no-repeat;
     background-size: 20%, 100% 100%;
