@@ -342,7 +342,7 @@
     background-repeat: no-repeat;
     background-size: 20%, 100% 100%;
     position: relative;
-    z-index: 1000;
+    z-index: 10000;
 
 }
 
